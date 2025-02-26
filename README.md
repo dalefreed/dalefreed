@@ -4,7 +4,7 @@
 
 -->
 
-| Category       |  Value        |
+|      |     |
 | :------------- |:-------------:|
 | **Teach at:**  | University of Illinois Chicago (UIC)| 
 | **First Tech**:| Osborne "portable" computer; flowcharting plastic template| 
