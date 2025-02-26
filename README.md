@@ -3,7 +3,7 @@
 **dalefreed/dalefreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-
+|   |   |
 | :------------- |:-------------:|
 | **Teach at:**  | University of Illinois Chicago (UIC)| 
 | **First Tech**:| Osborne "portable" computer; flowcharting plastic template| 
