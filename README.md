@@ -1,6 +1,7 @@
 
 <!--
 **dalefreed/dalefreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 **Teach at**: University of Illinois Chicago (UIC)
 **First Tech**: Osborne "portable" computer; flowcharting plastic template
@@ -21,4 +22,4 @@ Reed served on his neighborhood school Local School Council (LSC) for 11 years a
 
 Reed can juggle and ride the unicycle, though not yet at the same time, and rides a skateboard or folding bike around campus.
 
--->
+
