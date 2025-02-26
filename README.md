@@ -3,14 +3,15 @@
 **dalefreed/dalefreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+| :------------- |:-------------:|
+| **Teach at:**  | University of Illinois Chicago (UIC)| 
+| **First Tech**:| Osborne "portable" computer; flowcharting plastic template\    | 
+| **Home town**: | Chicago | 
+| **Field of Study**:| CS Education|
+| **Contact Info**: |..*Email*: reed@uic.edu\
+..*Website*: bit.ly/dalereed\
+..*Email*: reed@uic.edu|
 
-**Teach at**: University of Illinois Chicago (UIC)
-**First Tech**: Osborne "portable" computer; flowcharting plastic template
-**Home town**: Chicago
-**Field of Study**: CS Education
-**Contact Info**:
-..*Email*: reed@uic.edu
-..*Website*: bit.ly/dalereed
 **Bio**:
 
 Dr. Dale Reed is Clinical Professor in the Computer Science department at UIC.  As director of CS Recruitment at UIC he has spearheaded UIC CS department undergraduate student population growth from 187 students in 2005 to over 1415 students in 2019, leading the national growth average by ~6%.  This growth involved giving over 300 presentations to ~10,000 high school students over 12 years.
