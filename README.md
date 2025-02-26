@@ -4,12 +4,12 @@
 
 -->
 |   |   |
-| :------------- |:-------------:|
+| ------------- |:-------------|
 | **Teach at:**  | University of Illinois Chicago (UIC)| 
 | **First Tech**:| Osborne "portable" computer; flowcharting plastic template| 
 | **Home town**: | Chicago | 
 | **Field of Study**:| CS Education|
-| **Contact Info**: |..*Email*: reed@uic.edu\..*Website*: bit.ly/dalereed\..*Email*: reed@uic.edu|
+| **Contact Info**: |*Email*: reed@uic.edu\*Website*: bit.ly/dalereed\*Email*: reed@uic.edu|
 
 **Bio**:
 
