@@ -3,9 +3,11 @@
 **dalefreed/dalefreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+
+| Category       |  Value        |
 | :------------- |:-------------:|
 | **Teach at:**  | University of Illinois Chicago (UIC)| 
-| **First Tech**:| Osborne "portable" computer; flowcharting plastic template\    | 
+| **First Tech**:| Osborne "portable" computer; flowcharting plastic template| 
 | **Home town**: | Chicago | 
 | **Field of Study**:| CS Education|
 | **Contact Info**: |..*Email*: reed@uic.edu\
